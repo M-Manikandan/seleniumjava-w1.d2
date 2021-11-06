@@ -4,7 +4,7 @@ public class DuplicatesInArray {
 
 	public static void main(String[] args) {
 
-		int[] arr = { 12, 4, 2, 8, 4, 10, 12, 2, 10 };
+		int[] arr = { 12, 4, 2, 8, 4, 10, 12, 2, 1 };
 
 		int count;
 		int len = arr.length;
